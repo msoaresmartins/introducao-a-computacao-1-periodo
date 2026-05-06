@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main() {
+    float n1, n2, result;
+    
+    printf("Digite o primeiro número: ");
+    scanf (%f, &n1);
+    
+    printf("Digite o segundo número: ");
+    scanf("%f", &n2);
+    
+    //Algoritmo de Subtração
+    result = n1 - n2;
+    
+    printf("Resultado %.2f\n", result);
+    
+    return 0;
+}

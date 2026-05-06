@@ -1,0 +1,23 @@
+int main()
+{
+   int dia, mes, mes_2 ano;
+   scanf("%d %d %d", &dia, &mes, &ano);
+   
+   switch (mes) {
+       case 1: mes_2 = janeiro; break;
+       case 2: mes_2 = janeiro; break;
+       case 3: mes_2 = janeiro; break;
+       case 4: mes_2 = janeiro; break;
+       case 5: mes_2 = janeiro; break;
+       case 6: mes_2 = janeiro; break;
+       case 7: mes_2 = janeiro; break;
+       case 8: mes_2 = janeiro; break;
+       case 9: mes_2 = janeiro; break;
+       case 10: mes_2 = janeiro; break;
+       case 11:mes_2 = janeiro; break;
+       case 12: mes_2 = janeiro; break;
+       
+   }
+
+    return 0;
+}
