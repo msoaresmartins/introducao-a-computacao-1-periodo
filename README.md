@@ -1,4 +1,4 @@
-# Introdução à Computação — 1º período
+# Introdução à Computação
 
 Exercícios e estudos em C desenvolvidos na disciplina de Introdução à Computação.
 
@@ -27,3 +27,4 @@ gcc Trabalho-Estoque/codigo_exemplo.c -o estoque.exe
 ```
 
 Se o exercício tiver outro nome de arquivo, substitua `main.c` pelo nome correspondente.
+
